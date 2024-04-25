@@ -1,0 +1,7 @@
+li a{
+    text-decoration: none; /* убираем подчеркивание */
+    font-size: 1.2em; /* делаем шрифт больше */
+    color: black !important; 
+}
+
+ 
